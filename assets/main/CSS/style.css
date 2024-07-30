@@ -1,0 +1,198 @@
+@font-face {
+    font-family: Poppins;
+    src: url('../front/Poppins-Bold.ttf') format('opentype');
+    font-weight: 800; /* Bold*/
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url('../front/Poppins-Medium.ttf') format('opentypt');
+    font-weight:500; /* Medium*/
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url('../front/Pop  pins-Light.ttf') format('opentypt');
+    font-weight:300; /* Light*/
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+
+
+/* ################################ Navbar section Begin ################################ */
+
+.nav_title{
+    font-weight: 800;
+    font-size: 18.05px;
+    color:  #FFFFFF;
+}
+
+.home_bg1{
+    width: 100%;
+    background-color: #926FF6;
+}
+
+.home_font{
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.poppins_font{
+    font-weight: 300;
+    font-size: 11px;
+}
+
+/* ################################ Navbar section End ################################ */
+
+
+
+
+
+
+/* ################################ Home section Begin ################################ */
+
+.home_title1{
+    color: #FFE074;
+}
+
+.home_title_2{
+    color: #FFFFFF;
+    font-weight: 800;
+    font-size: 62.8px;
+}
+
+
+.home_text{
+    color: #FFFFFF;
+    font-weight: 300%;
+    font-size: 16px;
+}
+/* ################################ Home section End ################################ */
+
+
+
+
+/* ################################ Video section Begin ################################ */
+
+.video_title{
+    font-weight: 700;
+    font-size: 11px;
+    color: #FFAE00;
+}
+
+
+.video_title2{
+    font-weight: 500;
+    font-size: 24px;
+    color: #4F4F4F;
+}
+
+.video_circle{
+    font-weight: 700;
+    font-size: 16px;
+    color: #F3849F;
+}
+/* ################################ Video section End ################################ */
+
+
+
+/* ################################ Developers section Begin ################################ */
+
+.dev_bg{
+    border-radius: 3px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+
+/* ################################ Developers section End ################################ */
+
+
+/* ################################ Cards section Begin ################################ */
+
+
+.card_button{
+    border-radius: 26px;
+    padding: 5px, 18px, 5px, 18px;
+    background-color: #F3849F;
+    width: 5%;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.card_title{
+    font-weight: 700;
+    font-size: 12px;
+    color: #FFAE00;
+}
+
+
+.cards_text{
+    font-weight: 400;
+    font-size: 12.69px;
+    color: #828282;
+    text-decoration: none   ;
+}
+/* ################################ Cards section End ################################ */
+
+/* ################################ Resent section Begin ################################ */
+
+
+.resent_bg{
+width: 100%;
+background-color: #F7EEFF;
+}
+
+
+.resent_text{
+    font-weight: 500;
+    font-size: 12px;
+    color: #4F4F4F;
+}
+
+
+.resent_title1{
+    font-weight: 700;
+    font-size: 12px;
+    color: #F3849F;
+}
+
+.resent_title2{
+    font-weight: 700;
+    font-size: 12px;
+    color: #926FF6;
+}
+
+
+.resent_title3{
+    font-weight: 700;
+    font-size: 12px;
+    color: #79CFFF;
+}
+/* ################################ Resent section End ################################ */
+
+/* ################################ Copyright section Begin ################################ */
+
+.copyright_title{
+font-weight: 400;
+font-size: 14px;
+color: #F7EEFF;
+}
+
+
+.copyright_bg{
+    width: 100%;
+    background-color: #333333;
+}
+
+/* ################################ Copyright section End ################################ */
